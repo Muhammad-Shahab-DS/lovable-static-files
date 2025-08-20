@@ -31,4 +31,5 @@ Allow: /images/
 Allow: /lovable-uploads/
 
 # Sitemap location
-Sitemap: https://tec-tel.com/sitemap.xml
+
+Sitemap: https://static.tec-tel.com/sitemap.xml
